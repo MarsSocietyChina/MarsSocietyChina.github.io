@@ -4,6 +4,8 @@
 
 the Mars Society China
 
+* [人类火星探索地图](https://marssocietychina.org/mars-exploration-map/)
+
 ## 关于 | About
 
 * 火星相关简介
