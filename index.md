@@ -4,6 +4,8 @@
 
 the Mars Society China
 
+
+[![mars-exploration-map](https://user-images.githubusercontent.com/1320252/55910355-d4be8a80-5c10-11e9-89df-461c376c6a90.jpg)](https://marssocietychina.org/mars-exploration-map/)
 * [人类火星探索地图](https://marssocietychina.org/mars-exploration-map/)
 
 ## 关于 | About
